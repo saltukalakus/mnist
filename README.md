@@ -1,4 +1,4 @@
-# hwr
+# mnist
  
  I plan to test different set of algorithms and AI frameworks to solve MNIST handwritten digit recognition problem in this project.
 
